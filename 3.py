@@ -42,5 +42,5 @@ while x:
     i4+=7
     x=fin.readline()
 smax=s1*s2*s3*s4*s5
-
+fin.close()
 print(smax)

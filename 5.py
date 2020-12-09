@@ -15,6 +15,7 @@ while x:
         Max=id
     x=fin.readline()
 i=2
+fin.close()
 #part2
 while i:
     if i not in d.keys():

@@ -38,4 +38,5 @@ while x:
 for i in d.keys():
     if d[i]==ppl:
         sm+=1
+fin.close()
 print(sm)
